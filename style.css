@@ -1,0 +1,11 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.btnClass{
+    display: flex;
+    gap: 10px;
+}
